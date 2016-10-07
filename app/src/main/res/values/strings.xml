@@ -1,0 +1,17 @@
+<resources>
+    <!--<string name="app_name">My Center</string>-->
+    <string name="name">Name</string>
+    <string name="status">Is New?</string>
+    <string name="model">Model</string>
+    <string name="add">Add</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="Add_Car">Add Car</string>
+    <string name="Plate_Number">Plate Number</string>
+    <string name="yes">Yes</string>
+    <string name="login">Login</string>
+    <string name="app_name">Car Rental Center</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+</resources>

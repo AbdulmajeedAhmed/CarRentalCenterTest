@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مركز تأجير السيارات</string>
+    <string name="Add_Car">إضافة سيارة</string>
+    <string name="Delete">حذف</string>
+    <string name="Edit">تعديل</string>
+    <string name="Plate_Number">رقم اللوحة</string>
+    <string name="add">إضافة</string>
+    <string name="model">الموديل</string>
+    <string name="name">إسم الشركة</string>
+    <string name="status">هل السيارة جديدة؟</string>
+    <string name="yes">نعم</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="Title">مركز تأجير السيارات</string>
+    <string name="username">إسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="register">تسجيل</string>
+</resources>
